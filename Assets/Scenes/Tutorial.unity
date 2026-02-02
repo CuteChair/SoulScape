@@ -2679,14 +2679,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Blue Soul :
-
-
-    You can possess this item
-
-
-
-'
+  m_text: "Blue Soul :\n\nPossesable objects \nhave this texture on \n\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10097,7 +10090,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Blue Soul :\n\nWhat Does It Do :\nLauches an orb (soul)\nfoward. On collision,\nallows
-    you to take control\nof specific objects.\n\nControls :\nAlign the crosshair
+    you to take control\nobjects with chrome texture\n\nControls :\nAlign the crosshair
     (dot)\nPress \"Q\"\nWASD to move the \npossessed object\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10770,8 +10763,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Blue Soul :\n\nHow To Unlock : \nWalk inside the blue \nlights scattered
     around \nthe levels\n\nHow To Use :\nWhen unlocked, \npress \"Q\" to activate
-    \ngreen soul mode.\nPressing \"Q\" again will\nmake you go back\ninto player
-    mode.\n\n\n"
+    \nblue soul mode.\nPressing \"Q\" again will\nmake you go back\ninto player mode.\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

@@ -7,6 +7,8 @@ public class TriggerCeilingFall : AnimationsAbstract
     {
         if(isNearEnoughToInteract == true)
         {
+            associatedSound.Play();
+
             PlayAnimation("isFalling");
         }
         

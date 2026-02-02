@@ -5,6 +5,8 @@ public abstract class AnimationsAbstract : MonoBehaviour
 {
     [SerializeField] private Animator animator;
 
+    [SerializeField] protected AudioSource associatedSound;
+
     protected bool isNearEnoughToInteract;
 
     private void Start()
